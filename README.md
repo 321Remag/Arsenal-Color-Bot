@@ -10,6 +10,10 @@ Here sis a show Case:
 
 The start screen:
 
+https://github.com/321Remag/Arsenal-Color-Bot/assets/174529763/3840c2b7-ce4d-49ff-ab93-10aa41bec0f2
+
+
 
 The menu:
+
 ![Screenshot 2024-07-03 042019](https://github.com/321Remag/Arsenal-Color-Bot/assets/174529763/10a723d3-183d-42d6-a657-e9c525134818)
