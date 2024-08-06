@@ -2,3 +2,5 @@ Discord: https://discord.gg/Znp4Jknx
 
 ------------Update Log-----------
  06.08.2024    V1.0 was released
+
+ 06.08.2024    add Update Log
